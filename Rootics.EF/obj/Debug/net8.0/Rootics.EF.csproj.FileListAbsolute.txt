@@ -1,0 +1,17 @@
+F:\Projects\GradutionProject\Rootics.EF\bin\Debug\net8.0\Rootics.EF.deps.json
+F:\Projects\GradutionProject\Rootics.EF\bin\Debug\net8.0\Rootics.EF.runtimeconfig.json
+F:\Projects\GradutionProject\Rootics.EF\bin\Debug\net8.0\Rootics.EF.dll
+F:\Projects\GradutionProject\Rootics.EF\bin\Debug\net8.0\Rootics.EF.pdb
+F:\Projects\GradutionProject\Rootics.EF\bin\Debug\net8.0\Rootics.Core.dll
+F:\Projects\GradutionProject\Rootics.EF\bin\Debug\net8.0\Rootics.Core.pdb
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.csproj.AssemblyReference.cache
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.AssemblyInfoInputs.cache
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.AssemblyInfo.cs
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.csproj.CoreCompileInputs.cache
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.csproj.CopyComplete
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.dll
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\refint\Rootics.EF.dll
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.pdb
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\Rootics.EF.genruntimeconfig.cache
+F:\Projects\GradutionProject\Rootics.EF\obj\Debug\net8.0\ref\Rootics.EF.dll

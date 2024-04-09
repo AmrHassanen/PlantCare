@@ -1,0 +1,12 @@
+F:\Projects\GradutionProject\Rootics.Core\bin\Debug\net8.0\Rootics.Core.deps.json
+F:\Projects\GradutionProject\Rootics.Core\bin\Debug\net8.0\Rootics.Core.dll
+F:\Projects\GradutionProject\Rootics.Core\bin\Debug\net8.0\Rootics.Core.pdb
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.csproj.AssemblyReference.cache
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.AssemblyInfoInputs.cache
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.AssemblyInfo.cs
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.csproj.CoreCompileInputs.cache
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.dll
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\refint\Rootics.Core.dll
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\Rootics.Core.pdb
+F:\Projects\GradutionProject\Rootics.Core\obj\Debug\net8.0\ref\Rootics.Core.dll
